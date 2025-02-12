@@ -1,0 +1,4 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  google_mobile_ads: ^1.0.1 # Certifique-se de usar a versão mais recente
